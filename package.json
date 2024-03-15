@@ -1,0 +1,11 @@
+{
+  "name": "nc-tea4",
+  "version": "1.0.0",
+  "description": "Calculates basic statistics for text input",
+  "main": "statistics.js",
+  "dependencies": {},
+  "scripts": {
+    "test": "echo \"Error: No tests implemented yet\" && exit 0" // Replace with actual tests
+  },
+  "keywords": ["text", "statistics", "word count", "character count", "sentence count"]
+}
