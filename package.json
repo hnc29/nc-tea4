@@ -1,11 +1,21 @@
 {
   "name": "nc-tea4",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Calculates basic statistics for text input",
   "main": "statistics.js",
   "dependencies": {},
-  "scripts": {
-    "test": "echo \"Error: No tests implemented yet\" && exit 0" // Replace with actual tests
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hnc29/nc-tea4"
   },
-  "keywords": ["text", "statistics", "word count", "character count", "sentence count"]
+  "scripts": {
+    "test": "echo \"Error: No tests implemented yet\" && exit 0"
+  },
+  "keywords": [
+    "text",
+    "statistics",
+    "word count",
+    "character count",
+    "sentence count"
+  ]
 }
